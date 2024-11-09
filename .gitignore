@@ -1,0 +1,36 @@
+# Byte-compiled
+__pycache__/
+
+# LaTeX specific
+*.aux
+*.log
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.pdfsync
+*.toc
+*.out
+*.bbl
+*.blg
+*.lot
+*.lof
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.xdv
+*.loa
+
+# Editors
+.vscode/
+*.swp
+*~
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# jupyterlab
+*.db
+.ipynb_checkpoints
+
